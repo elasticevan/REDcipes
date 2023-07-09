@@ -1,2 +1,2 @@
 # REDcipes
-recipes inspired by RED (Taylor's Album)
+recipes inspired by Speak Now (Taylor's Album)
